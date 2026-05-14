@@ -11,7 +11,7 @@ public class main {
     public static double minusY = -1;
     public static double plusY = 1;
     public static int aufloesung = 1500;
-    public static int zoomfactor = 100;
+    public static int zoomfactor = 15;
     public static CodeDraw mydrawObj = new CodeDraw(1600, 800);
 
     public static void main(String[] args) {
